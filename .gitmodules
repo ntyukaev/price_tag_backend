@@ -1,0 +1,3 @@
+[submodule "price-tag-frontend"]
+	path = price-tag-frontend
+	url = https://github.com/ntyukaev/price-tag-frontend.git
